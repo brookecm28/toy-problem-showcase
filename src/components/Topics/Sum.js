@@ -26,7 +26,6 @@ class Sum extends Component {
     addNums (num1, num2) {
         let total = num1 + num2
         this.setState ({
-            
             sum: total
         })
     }

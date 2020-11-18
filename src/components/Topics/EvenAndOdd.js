@@ -32,8 +32,8 @@ class EvenAndOdd extends Component {
             evenArray: evens,
             oddArray: odds
         })
-        console.log(this.state.evenArray)
-        console.log(this.state.oddArray)
+        // console.log(this.state.evenArray)
+        // console.log(this.state.oddArray)
     }
 
     render () {
